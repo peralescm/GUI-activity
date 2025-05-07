@@ -1,7 +1,7 @@
 # GUI-activity
 # Snapshots
 
-Description: This code is about shop 
+Description: This code is about shop that records the the customer's order.
 
 ![image](https://github.com/user-attachments/assets/3fd409af-e841-499f-90e7-78df0b2f22d6)
 
